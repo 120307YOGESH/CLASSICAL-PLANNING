@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+# NAME :  YOGESH.S
+
+# Reg No : 212224230311 
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
@@ -47,10 +51,7 @@ print(plan)
 ```
 
 ### PROGRAM
-**NAME : PRIYADHARSHINI E **
 
-
-** REG NUM :212223230159**
 ```PYTHON
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
